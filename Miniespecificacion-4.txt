@@ -1,0 +1,30 @@
+Algoritmo-4
+
+Generar un algoritmo que permita calcular y mostrar el costo de una computadora de escritorio. La misma es comprada por partes; CPU, teclado, pantalla, ratón
+
+Algoritmo:
+
+
+1. Inicio
+2. Ingresar el computador que desee adquirir
+3. Ingresar las partes que desee comprar
+4. Mostrar en pantalla el total del compudor y el total de las partes
+5. Fin
+
+---------- Miniespecificacion o Pseudocódigo 
+
+1. Inicio
+// declaro las variables
+2. Partes_pc, x
+3. Computador, x
+
+// pido datos por teclado - entradas
+4. Escribir "Ingrese el computador que desee adquirir"
+5. Leer Computador
+6. Escribir "Ingrese las partes de desee comprar"
+7. Leer Partes_pc
+
+// salida
+8. Escribir "El costo de la computadora de escritorio es :" + Computador
+
+9. Fin

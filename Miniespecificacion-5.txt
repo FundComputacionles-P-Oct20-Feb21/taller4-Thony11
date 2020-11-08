@@ -1,0 +1,42 @@
+Algoritmo-5
+
+Generar un solución que permita calcular y mostrar el pago mensual de un préstamo de 1 año de plazo. Se debe ingresar el monto del préstamo y el interés mensual a cobrar.
+
+Algoritmo: 
+
+1. Inicio
+2. Ingresar el nombre del cliente
+3. Ingresar el tipo de prestamo
+4. Ingrsar el monto del prestamo
+5. Ingresar el interes mensual que desee cobrar
+6. Ingrsar el tiempo de plazo
+7. Mostrar en pantalla el cobro mensual del prestamo
+8. Fin
+
+---------- Miniespecificacion o Pseudocódigo 
+
+1. Inicio
+// declaro las variables
+2. prestamo, d[0, n]
+3. int_mensual, d[0, n]
+4. plazo, d[0, n]
+5. nombre, x
+
+// pido datos por teclado - entradas
+6. Escribir "Ingrese el nombre del cliente"
+7. Leer nombre
+8. Escribir "Ingrse el monto del prestamo"
+9. Leer prestamo
+10. Escribir "Ingrese el interes mensual que desee cobrar"
+11. Leer int_mensual
+12. Escribir "Ingrese el tiempo de plazo"
+13. Leer plazo
+
+
+// salida
+14. Escribir "El pago mensual del préstamo de 1 año de plazo es :" + int_mensual
+
+15. Fin
+
+
+

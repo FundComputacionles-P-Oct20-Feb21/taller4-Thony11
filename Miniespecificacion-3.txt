@@ -1,0 +1,53 @@
+Algoritmo-3
+
+Generar un algoritmo que permita calcular y mostrar el valor de la planilla de teléfono de un casa. Se debe ingresar el costo por minutos, el número de minutos consumidos en el mes.
+
+Algoritmo:
+
+1. Inicio
+2. Ingresar el nombre de usuario
+3. Ingresar el numero de telefono
+5. Ingresar el costo por minutos
+6. Ingresar el numero de minutos consumidos en el mes
+7. Mostrar en pantalla el valor a pagar de los minutos consumidos en el mes
+8. Fin
+
+---------- Miniespecificacion o Pseudocódigo
+
+1. Inicio
+// declaro las variables
+2. nombre, x(30)
+3. numero, d[0, n]
+4. min, d[0, n]
+5. minmes, d[0, n]
+
+// pido datos por teclado - entradas
+6. Escribir "Ingrese el nombre del usuario"
+7. Leer nombre
+8. Escribir "Ingrese el numero de telefono"
+9. Leer numero
+10. Escribir "Ingrese el costo por minutos"
+11. Leer min
+12. Escribir "Ingrese el numero de minutos consumidos en el mes"
+13. Leer minmes
+
+// salida
+14. Escribir "El valor de la planilla de teléfono es:" + min + minmes
+
+16. Fin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
